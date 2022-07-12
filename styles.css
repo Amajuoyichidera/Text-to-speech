@@ -17,6 +17,13 @@ background-size: cover;
     transform: translate(-50%, -50%);
     border-radius: 10px;
 }
+
+h2 {
+    text-align: center;
+    left: 50%;
+    padding-top: 500px;
+}
+
 .title {
     text-align: center;
     font-size: 23px;
